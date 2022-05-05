@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... Youtube Downloader
 - 📫 How to reach me ... www.hardik.live/contact
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikanand1st)](https://hardik.live)
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikanand1st&theme=nightowl&show_icons=true)
